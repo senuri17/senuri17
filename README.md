@@ -1,20 +1,24 @@
-<h1 align="center">Hi 👋, I'm Senuri Thilakarathna</h1>
-<h3 align="center">Computer Engineering Undergraduate | University of Jaffna</h3>
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Hi+👋,+I'm+Senuri+Thilakarathna;Computer+Engineering+Undergraduate;Full+Stack+Developer;Embedded+Systems+Enthusiast;AI+%7C+ML+Explorer" />
+</h1>
 
-<p align="center">
-  🚀 Passionate about building intelligent systems, full-stack applications, and embedded solutions
-</p>
+<h3 align="center">
+  🚀 University of Jaffna | Building Smart Systems & Intelligent Applications
+</h3>
 
 ---
 
-## 💫 About Me
+## 🌌 About Me
 
-- 🎓 Computer Engineering Undergraduate at **University of Jaffna**
-- 💻 Interested in **Full Stack Development, Embedded Systems, Robotics**
-- 🤖 Exploring **AI & Machine Learning**
-- 🔧 Love working on **IoT & real-world engineering solutions**
-- 🌱 Currently learning: **Advanced Backend, ML Models, System Design**
-- ⚡ Fun fact: I enjoy turning ideas into working prototypes!
+<img align="right" height="180" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
+
+- 🎓 Computer Engineering Undergraduate  
+- 💻 Full Stack Developer  
+- 🤖 Embedded Systems & Robotics Enthusiast  
+- 🧠 AI & Machine Learning Explorer  
+- 🔧 Passionate about **IoT & real-world problem solving**  
+- 🌱 Currently learning: **System Design & Advanced ML**  
+- ⚡ Love turning ideas into real working systems  
 
 ---
 
@@ -31,75 +35,56 @@
 
 ---
 
-## 🛠️ Tech Stack
+## ⚡ Tech Stack
 
-### 💻 Programming Languages
-![C](https://img.shields.io/badge/C-blue?style=for-the-badge&logo=c)
-![Java](https://img.shields.io/badge/Java-red?style=for-the-badge&logo=java)
-![Python](https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python)
-![JavaScript](https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript)
-
-### 🌐 Web Development
-![HTML](https://img.shields.io/badge/HTML-orange?style=for-the-badge&logo=html5)
-![CSS](https://img.shields.io/badge/CSS-blue?style=for-the-badge&logo=css3)
-![React](https://img.shields.io/badge/React-black?style=for-the-badge&logo=react)
-![Spring Boot](https://img.shields.io/badge/SpringBoot-green?style=for-the-badge&logo=springboot)
-
-### ⚙️ Tools & Technologies
-![Git](https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git)
-![Docker](https://img.shields.io/badge/Docker-blue?style=for-the-badge&logo=docker)
-![MongoDB](https://img.shields.io/badge/MongoDB-green?style=for-the-badge&logo=mongodb)
-
-### 🤖 Specialized Areas
-- Embedded Systems (ESP32, Arduino)
-- Robotics & Automation
-- AI / ML (Data Analysis, Model Building)
-- IoT Systems
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=c,java,python,js,react,spring,mongodb,docker,git,arduino&perline=5" />
+</p>
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=senuri17&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=00F7FF&text_color=FFFFFF" height="170"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=senuri17&theme=tokyonight&hide_border=true&background=0D1117&ring=00F7FF&fire=00F7FF&currStreakLabel=00F7FF" height="170"/>
 </p>
 
 ---
 
-## 🔥 Most Used Languages
+## 🔥 Activity Graph
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=senuri17&theme=tokyo-night&bg_color=0D1117&color=00F7FF&line=00F7FF&point=FFFFFF&area=true&hide_border=true"/>
 </p>
-
----
-
-## 🚀 Featured Projects
-
-- 🌍 **IoT Landslide Monitoring System**
-- 🤖 **Robotics Line Follower using ESP32**
-- 📊 **Machine Learning Prediction Models**
-- 🌐 **Full Stack Web Applications**
-
----
-
-## ✨ Profile Views
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20views&color=0e75b6&style=flat" />
-</p>
-
----
-
-## 🎯 Quote
-
-> "Engineering is not just about solving problems — it's about creating the future."
 
 ---
 
 ## 🐍 Contribution Snake Animation
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/senuri17/senuri17/output/github-contribution-grid-snake.svg" />
+</p>
+
+---
+
+## 🚀 Featured Projects
+
+✨ IoT Landslide Monitoring System (TerraGuard)  
+✨ ESP32 Line Follower Robot  
+✨ AI / ML Prediction Models  
+✨ Full Stack Web Applications  
+
+---
+
+## 🌈 Animated Footer
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:8A2BE2&height=120&section=footer"/>
+
+---
+
+## 🎯 Quote
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=8A2BE2&center=true&vCenter=true&lines=Engineering+the+Future;Building+Smart+Solutions;Turning+Ideas+into+Reality"/>
 </p>
